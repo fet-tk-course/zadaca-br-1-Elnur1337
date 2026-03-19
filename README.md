@@ -11,6 +11,12 @@ GitHub username: Elnur1337
 
 ---
 
+## Uvod
+
+Moje ime je Elnur Bjelić, student sam treće godine fakulteta elektrotehnike.
+
+---
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
